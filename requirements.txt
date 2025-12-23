@@ -1,0 +1,5 @@
+google-generativeai
+google-cloud-texttospeech
+gradio>=4.0
+pydub
+ffmpeg-python

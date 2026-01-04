@@ -150,7 +150,7 @@ app = gr.Interface(
         gr.Textbox(label="Marketing Script", lines=10),
         gr.Audio(label="Generated Audio"),
     ],
-    title="PepsiCo Audio Marketing Studio",
+    title="PepsiCo Audio Marketing Studio (Use‑Case Prototype)",
     description="Generate brand-safe marketing audio using Gemini and Google Cloud."
 )
 
